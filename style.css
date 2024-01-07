@@ -20,8 +20,9 @@
   text-align: center;
   margin: 80px 10px 80px 10px;
   font-family: 'Lemon', serif;
-  text-shadow: 1px 1px 5px #fff;
+  text-shadow: 1px 1px 8px #fff;
   font-size: 1.6rem;
+  word-spacing: 5px;
 }
 .controls {
   display: flex;
