@@ -3,7 +3,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 body{
-  transition: background 1.2s;
+  transition: background 1.5s;
 }
   .control_box {
   display: flex;
