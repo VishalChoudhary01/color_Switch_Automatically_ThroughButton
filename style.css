@@ -18,6 +18,7 @@ body{
   border-radius: 30px;
   margin: 10px;
   backdrop-filter: blur(15px);
+  box-shadow: 1px 1px 1px #fff,1px -1px 1px  #131212 ;
 }
 .control_box section h1 {
   text-align: center;
